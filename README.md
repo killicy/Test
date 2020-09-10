@@ -1,3 +1,2 @@
 # Test
-<<<<<<< HEAD
 this works
